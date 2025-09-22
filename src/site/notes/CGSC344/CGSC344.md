@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cgsc-344/cgsc-344/","tags":["gardenEntry"],"created":"2025-09-16T09:49:11.219-07:00","updated":"2025-09-22T15:35:34.630-07:00"}
+{"dg-publish":true,"permalink":"/cgsc-344/cgsc-344/","created":"2025-09-16T09:49:11.219-07:00","updated":"2025-09-22T15:37:05.595-07:00"}
 ---
 
 Notes for Modeling the Mind.  The goal of this course is to introduce students to computational modeling in MATLAB. This course covers:
